@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=E6ECC6&width=435&lines=Douglas+Rodrigues)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FFFFFF&width=435&lines=Douglas+Rodrigues)](https://git.io/typing-svg)
 ### Hi friend 👋
 
 I'm a developer interested in learning more about web and mobile application development, with a solid knowledge of front-end development. Additionally, I'm currently a student of design in my spare time, always striving to combine web applications with a good user experience and design.
