@@ -7,6 +7,6 @@ I'm a developer interested in learning more about web and mobile application dev
   <div>
     ⚡<b>Languages</b>: <i>JavaScript</i> - <i>Java</i> - <i>Python</i> - <i>HTML5 | CSS3</i> - <i>AMPscript</i><br>  
     ⚡<b>Technology</b>: <i>React</i> - <i>React Native</i> - <i>Next.js</i> - <i>Bootstrap</i> - <i>MJML Framework</i> - <i>jQuery</i><br>
-    ⚡<b>Tools</b>: <i>Marketing Cloud and Worflow (Salesforce)</i> - <i>Photoshop, illustrator, XD and Figma (Adobe)</i>
+    ⚡<b>Tools</b>: <i>Marketing Cloud and Workflow (Salesforce)</i> - <i>Photoshop, illustrator, XD and Figma (Adobe)</i>
    </div>
 </section>
